@@ -1,2 +1,2 @@
-# ARIMAFix
-Prediksi hasil penjualan menggunakan autoregressive integrated moving average
+# Sales_Forecasting_ARIMA
+Prediksi Hasil Penjualan Menggunakan Autoregressive Integrated Moving Average
